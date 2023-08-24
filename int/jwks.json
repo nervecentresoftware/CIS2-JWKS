@@ -294,8 +294,6 @@
          "e":"AQAB",
          "alg":"RSA-OAEP-256"
       },
-     {
-   "keys":[
       {
          "alg":"RS256",
          "e":"AQAB",
