@@ -254,7 +254,7 @@
       "dir",
       "A192KW"
    ],
-   "jwks_uri":"https://raw.githubusercontent.com/lnorthNC/jwks/main/int/jwks.json",
+   "jwks_uri":"https://raw.githubusercontent.com/lnorthNC/jwks/main/int/jwks_bc.json",
    "subject_types_supported":[
       "public"
    ],
