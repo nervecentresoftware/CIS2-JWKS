@@ -26,7 +26,6 @@
             "e": "AQAB",
             "use": "sig",
             "kid": "configdev.uhdb.ops.nervecentre.thirdparty.nhs.uk",
-            "alg": "RS512",
             "n": "-NOkNvw1cddXcGib6F89lu9tijhFpdQPTfKVkYrtxPqG5TfF7HoLepd_v7euz7lYHFY9YxN3yXaxn_K1H1MF7qmSoZ6XzGhG6DBDUpSPrNlZHjcVJ9oiOYyrNCK96xZNG0hQAclnGMUkmHpG7JKfgztqdFn39-OUuXWPUvW-ozFrnYyy0RePQGOOPHAIeTCA-aXfhQYjVMM4B2WRJVZx3TAOJLxJ1vR0T5HUVlcT4YC9fpV1V7vzPa_r5zPT4YnLChvJoTLY9EflMTI3aOBl-ggYEOd1v0w7DMWad_6PlsK35uQ15XEh6mKJziRe1ydWYgVDOn6XQkZAsVR0Wj7V_Rg7MGApyXWQP8GoiORwy5bNCUI4DhjY5er7SwepFwiLJ7uzbM4yhRp8ojGnFnLqHQA2g-Hi80pWQOj3pwWbjtuWVB3TbiFW2MUsnh-RIgRpC843-nfDjHal3rFqZasqJCIhKFDlaJZSP19lZIpGpvd9ma5EI28WywRP6cMbYWzAbqZzk6aX3A8ELsRUrvx1D1uAp7PFUAupO5DiFLvKB2QGLaThmsS5L1-WeduDF88rJiqvpWaGLW4mG4q0Mrq1CAwTiVjoq7DPiFx3ZvOWpwG3hvVosraVBhUkSc4UfTM7nkYCjbW_0YcCDExcEQXOmZnbseWkmlfKnlGPt8DWuC0"
         },
         {
@@ -34,7 +33,6 @@
             "e": "AQAB",
             "use": "sig",
             "kid": "cis2uhdbconfigdev",
-            "alg": "RS256",
             "n": "4rjrbaUsXOEHgGgKfz3JT0y0X7Urf2QhIAzwOwtMqlRmECromTyMIzGO9Ft2HemjDrTdZ7NSYIAeKlf2ORmGj4nZpMXorlq25nFwGGS8HTxEBZ0jeLs4BrXQ967gOQlKhrP-PZ_bWk-b-2SlxW_bYl-j6MpEDIcXxU8Y3ULxDztAl6Iuwo6bXDIbZvU01zRyolT6Wi5ZCy8rVIzHvdi2vs_BaPnREvAhBVP6aAEOoPIsjf16dsXcsYExPrmGW_Y1V4Lna7jS7if68H8DKuat4SkjpUxs4Q4a5jbHT4EuTt5NqLPxPIDJ6tgvcE_yEcToWtfmfn-EkUKv-Of9BC19SpOJtvAcLsLRVY2e3_w39AaXZkLHQ2kn3j4BKL7ztnUV-VKm35Bz9TjTWbet9JuiTvfBi5U2oQWY-DgaOXcv6o-bDnuednSa47puXAc1uw3QBb9dfyK9A1TAQBloKA40uQIemaXEV6dPELHIAhFvjJ8OXkCYlqrYGH-48Q6rH9p3FElsYVam5pWPj2Xxtz648L-Cg-yhSoU2AidbByyYtrb6zmxIBjt2xKnvKs-L-yHOx65iQvibtsi4DQuO5kf88eB_n8oNcfhTHX5QOkG8PGBjgoWfuMsCHWpaCpSQf6YjV9n3xMSZ7sRPfEHf0XSpU9wrhjPapqKoZJj6sIDUb4c"
         }
     ]
