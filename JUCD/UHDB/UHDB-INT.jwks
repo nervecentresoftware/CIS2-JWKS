@@ -19,13 +19,6 @@
             "e": "AQAB",
             "use": "sig",
             "kid": "passandpit.jucd.ops.nervecentre.thirdparty.nhs.uk",
-            "n": "upOMFccBTVJ69Ptz-7_vwMQ0OwKf5rfDqPFYqMUZuw3jlDFs8PVhza300AdDSh5P90Ph8GfBpcb1FBErLfuyHD4O9xIHY83-h-pd-9Xx8Ek2kp0112ZbcYzf-Fp51jm-MJF8o1ujc8CC8TV6GkhshT4OYtG224fdB7Din78x9IwRirjhGb8fxmaDfjoZHyD7Klp0qy4uaFknl1tmFEMjFxvs0B202_YU1qGC_38468PvRRLBi-D43yr8xKlk8w20-TMMU3k9sa0SuT8XxOQOm-25l8rmr-hKS3MUwhIognM-JMF1mgwQxxPj66apRKCYzMlc4zGwr8U6xuuLjnX8cbbhcDVN2Pzg_ow0mm6IPggoBJsndqzEjIPrfZVD65pEvZk73nyAyhx4mDPQKG5fSyarvJJnAiOyqZdqBuO---k2NLke7tSeC5yWqgGFKTGh41JcX42gBB-xSa490XqXlaEuqcnbPbCRPmFzZsaPkejmzcPBO1zno5ZlvTai2KVBgtsF8zsRBQ95MtduYCTvL_pNQcxSu1s-FgY0SaB5TvOOIMba_wFJ7jn-ldO8-yP3AKE_kvK9zCxbWuVtMQeCia5e6bqmNePmKG0hZdMTWxNmbasZtiBO1G6ll8K43pxzIso3EwlQATZoLf13RWo9RHu8yPVIhKyHXkgkBbz_A18"
-        },
-        {
-            "kty": "RSA",
-            "e": "AQAB",
-            "use": "sig",
-            "kid": "passandpit.jucd.ops.nervecentre.thirdparty.nhs.uk",
             "alg": "RS512",
             "n": "tdviQgCG_5kdNkhezVjUEnJWXO91p6RdIoadjMG_A7zkrCvC-8ytGAYCZRsXkdeyfaeCKIgU6ZCvn9tXijDvlsVxDgQrZOlScswdprjLybEpr5PjpStypOOmYXR2DJa0bghwD432PIUFSShHqHIcYjUBtaVI1a9fnxO4-QGJjcxvOYlN8UTwL7szoQwRJ-f8R61a4SHa7c-Tn8T1jlnHDcNXxR0dAeAFgv6m0jTp2UbL7BK1jteKYI-XTBIzyWaVXKygZ_3hC1vjKRWg0QVpKYeTWeybf-1SRmWE5z8D6N97Rbbyz7TN7IO9jrvYvnhJHCzl3vLHYfAtRp8Kl4ZDWe0W8glDCTs63fleuzKlonABjcQrvLlLml_tR-NGyElqreUOxWc1-mOYS5eMi0Emg6gOmIRzLupXYva91nqmof5Fuifx0fwSsCCn9Rw-kzOA5vvHgPxCvBe0So3lcGRKMzv2-TS58Uk3_l3GtW-u0wIA_086krkGM8pVQr56roB89QRw9X5f6t8qD-8y0yk9pMUNljjBxy9fcqGeKX2GmJkKjmOv07QXlbWnUlYjD24grW2k0ldDJUvzfSr658d8FdsjeNw2s-PWs6aYhQilRB559NtPfrsyEQTyHV3Mtnt4ekCajHXlrXReE7n_PCDXMTJ5V9IK6HpcGZPJfTJnyZU"
         }
