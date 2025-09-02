@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "uat.esht.saas.nervecentre.thirdparty.nhs.uk",
+      "n": "tWJD9htZpBNEzM27bM1YhTyOfHr2yZYnk0462l49ZMx_t_L2WECyc8Kmq9z5R-P4A0LLcuYzS8BLdooJA901kET-QLTSDbdrq7zroMvRPm_fwA1_0VmAiCmE-mcYRHmBPKuALVp81VYjqjVaVpw3j6NUniAGtRJF_iMTdIsaU0_YUwjS8nP-jvgPZbQ32kaW1Mw9pLBUp-Y-e005lIja2F8sH5Dzj1xSs9FgVgJ45WTkEfa_tcQzl3Lc7FEemmqi6NnKTCi2mTHePAFAurXiKbvTxrRKGvnSk_gIV_3TzzZy4Cl7C_ZBAH4gSlHR-kbsytANiurote4hk2-SPGNkywvt2CNhgr-y2zkOxEhXL-_7OLaYcvYMNRTzQ7biGpyh1uLPug7F3mcAvm0exD5xp0alATXtIoftzOtrLpC9R1MMipj-9FmJ52P9lYHU8sbOcrLK1-hF-BZJfnht7aSe8BTRXazr9oOJl5UJT_Mh1MxinukvUCtN_JIvsQvq92tw8tLTobGvnJKUFUWQK-30rMlk3c4dEnqI9tVwkBknlaZVk04E1bi_pJT1AbFD639dqErO8jRe8SrsSrSVTCkDzFoDJfczPDalDmIswmhnAGF-h5W_d3slcO05bYsGkcKL-2s02_q5vNsSlUCdhiaz7bSBBmG0sw6kWtrcs706Na8"
+    }
+  ]
+}
