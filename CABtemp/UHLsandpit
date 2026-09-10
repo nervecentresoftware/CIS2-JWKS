@@ -1,0 +1,3 @@
+<Response>
+  <Dial answerOnBridge="true" callerId="+447723454359">{{#e164}}{{To}}{{/e164}}</Dial>
+</Response>
