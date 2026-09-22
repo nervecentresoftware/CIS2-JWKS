@@ -1,11 +1,1 @@
-{
-  "keys": [
-    {
-      "kty": "RSA",
-      "e": "AQAB",
-      "use": "sig",
-      "kid": "gp-fhir-api.nervecentre.thirdparty.nhs.uk",
-      "n": "xJceUyUyKt-2PxDMXCbn_-cYkRvF6eyLujrZs7AoazK3Iu7CfO-cMmompnqQz-DSLV8gV58Qpzdc7qd1W5LFbUjH6DjKJNEdpekaJhz1g1AO21827B5BMkWCMvVpsGuAaIKITJidyk24ZgvSzkSo0CPSNsudb7bPBSmvXqEObTSQKDnxQZX4QDtVOuWrCEhPVKO5hQMQkw4sAsgPxoSDCvWIz77Tu06FShD_5tSc9h347YmFdQ-rKj1zysAvbt7OaA4K5_Xp6wfSFyTiMciE4jYbdD3ar1U9bMRoNm3fbR2uJxIWdsIc3w4fSLAAIAAi6ZLaBqTOJZf_6FSnQ-HqtN9zOXAA2qKk6K_oOjCPywW2aJ9dAEyca-sg9W25pzzckIR3tqFNMm3iX4UXPcLn7wQ2mHWIcm_oG1u-75pf0g8fbpf9b9Fsc7P9FixDHjBFGKq5x7qM2HDSZfIJjN-U54dD1ULzfWqpa8eTE7sX3EeLp23sO3PQQEI4b2Mk16m0T1G0CUXf3OwQ2kCmrJO5lKumpCRxQECF7_-1t231OkQJqzXA6i0Xs30WUC-18zOez6JoOFS0z5oBf07RyG3ypr34zjTRWvoohr8rceIykiMbHvaM3hk8k65tCWmAN1tMxTy5nEgRffdMhoDHhXZ5IwAWG0utytnyG-EH9IDPEf8"
-    }
-  ]
-}
+{"keys":[{"kty":"RSA","e":"AQAB","use":"sig","kid":"gp-fhir-api.nervecentre.thirdparty.nhs.uk","n":"xJceUyUyKt-2PxDMXCbn_-cYkRvF6eyLujrZs7AoazK3Iu7CfO-cMmompnqQz-DSLV8gV58Qpzdc7qd1W5LFbUjH6DjKJNEdpekaJhz1g1AO21827B5BMkWCMvVpsGuAaIKITJidyk24ZgvSzkSo0CPSNsudb7bPBSmvXqEObTSQKDnxQZX4QDtVOuWrCEhPVKO5hQMQkw4sAsgPxoSDCvWIz77Tu06FShD_5tSc9h347YmFdQ-rKj1zysAvbt7OaA4K5_Xp6wfSFyTiMciE4jYbdD3ar1U9bMRoNm3fbR2uJxIWdsIc3w4fSLAAIAAi6ZLaBqTOJZf_6FSnQ-HqtN9zOXAA2qKk6K_oOjCPywW2aJ9dAEyca-sg9W25pzzckIR3tqFNMm3iX4UXPcLn7wQ2mHWIcm_oG1u-75pf0g8fbpf9b9Fsc7P9FixDHjBFGKq5x7qM2HDSZfIJjN-U54dD1ULzfWqpa8eTE7sX3EeLp23sO3PQQEI4b2Mk16m0T1G0CUXf3OwQ2kCmrJO5lKumpCRxQECF7_-1t231OkQJqzXA6i0Xs30WUC-18zOez6JoOFS0z5oBf07RyG3ypr34zjTRWvoohr8rceIykiMbHvaM3hk8k65tCWmAN1tMxTy5nEgRffdMhoDHhXZ5IwAWG0utytnyG-EH9IDPEf8"}]}
