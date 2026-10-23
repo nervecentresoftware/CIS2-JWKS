@@ -4,7 +4,9 @@
         {"Name":"SFT - ODS:RK5", "ODS": "RK5", "SRV": "2000170000" },
         {"Name":"HDFT - ODS:RCD", "ODS": "RCD", "SRV": "2000172518" },
         {"Name":"ESHT - ODS:RXC", "ODS": "RXC", "SRV": "2000072497" },
-		{"Name":"CRH - ODS:RFS", "ODS": "RFS", "SRV": "2000172527" },
+		{"Name":"RDH Adult Service", "ODS": "RFS", "SRV": "2000172527" },
+		{"Name":"RDH Children's Service", "ODS": "RFS", "SRV": "2000172526" },
+		{"Name":"CRH Service ID", "ODS": "RFS", "SRV": "2000169740" },
         {"Name":"Derby - ODS:RTG", "ODS": "RTG", "SRV": "2000172526" }
     ]
 }
